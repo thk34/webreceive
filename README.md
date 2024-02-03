@@ -3,7 +3,10 @@ A python script I created to send files from my phone or my 2nd computer to my m
 
 ## Setup
 pip install flask
+
 python main.py
+
 press enter
+
 
 ctrl + C when done
